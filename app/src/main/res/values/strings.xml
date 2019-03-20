@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BolaApps</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="name">Name</string>
+    <string name="liga">Liga</string>
+    <string name="manager_team">Manager Team</string>
+    <string name="stadium">Stadium</string>
+    <string name="lokasi_stadium">Lokasi Stadium</string>
+    <string name="kapasitas_staduim">Kapasitas Staduim</string>
+    <string name="asal_negara">Asal Negara</string>
+    <string name="website_official">Website Official</string>
+    <string name="detail_club">Detail Club</string>
+    <string name="image_club">Image Club</string>
+    <string name="favotite">Favotite</string>
+    <string name="favorite">favorite</string>
+    <string name="share">Share</string>
+</resources>
